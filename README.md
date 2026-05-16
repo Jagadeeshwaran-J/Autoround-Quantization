@@ -80,14 +80,3 @@ These industry-standard algorithms employ sophisticated mathematics to map param
 | **TensorRT-LLM** | NVIDIA TensorRT Optimization Suite | Hardware-fused compiler framework providing aggressive graph optimizations and deep tensor routing. | Industrial, ultra-low latency enterprise GPU cluster scaling. |
 
 ---
-
-## 🚀 Quick Start: AutoRound Example (Qwen 3.5 9B)
-
-This repository includes a practical Jupyter notebook (`auto_round_Qwen3_5_9B.ipynb`) demonstrating how to implement low-bit rounding quantization on top of the `Qwen3.5-9B` architecture and export it smoothly to Hugging Face.
-
-### 1. Environment Setup
-```bash
-# Install core and specialized optimization dependencies
-pip install ninja transformers --break-system-packages
-pip install git+[https://github.com/intel/auto-round.git](https://github.com/intel/auto-round.git) --break-system-packages
-pip install git+[https://github.com/sustcsonglin/flash-linear-attention.git](https://github.com/sustcsonglin/flash-linear-attention.git) --no-build-isolation --break-system-packages
