@@ -1,0 +1,23 @@
+ChatGPT said:
+Sure — here is a clean list of the 12 models you published:
+
+Qwen 3.5 – W4A16 AutoRound Models
+0.8B Models
+
+J-Fraudster/Qwen3.5-0.8B-W4A16-AutoRound
+J-Fraudster/Qwen3.5-0.8B-W4A16-AutoRound-GPTQ
+J-Fraudster/Qwen3.5-0.8B-W4A16-AutoRound-LLM-Compressor
+2B Models
+4. J-Fraudster/Qwen3.5-2B-W4A16-AutoRound
+5. J-Fraudster/Qwen3.5-2B-W4A16-AutoRound-GPTQ
+6. J-Fraudster/Qwen3.5-2B-W4A16-AutoRound-LLM-Compressor
+
+4B Models
+7. J-Fraudster/Qwen3.5-4B-W4A16-AutoRound
+8. J-Fraudster/Qwen3.5-4B-W4A16-AutoRound-GPTQ
+9. J-Fraudster/Qwen3.5-4B-W4A16-AutoRound-LLM-Compressor
+
+9B Models
+10. J-Fraudster/Qwen3.5-9B-W4A16-AutoRound
+11. J-Fraudster/Qwen3.5-9B-W4A16-AutoRound-GPTQ
+12. J-Fraudster/Qwen3.5-9B-W4A16-AutoRound-LLM-Compressor
